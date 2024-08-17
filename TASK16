@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Characters</title>
+</head>
+<body>
+
+    <p>&amp; represents the ampersand symbol.</p>
+    <p>&lt; represents the less-than symbol.</p>
+    <p>&gt; represents the greater-than symbol.</p>
+    <p>&copy; represents the copyright symbol.</p>
+    <p>&reg; represents the registered trademark symbol.</p>
+
+</body>
+</html>
