@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Margin Example</title>
+    <style>
+        /* Adding margin between elements */
+        .element1 {
+            margin-bottom: 20px;
+            background-color: lightgreen;
+            padding: 10px;
+        }
+
+        .element2 {
+            background-color: lightcoral;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="element1">
+        <p>This is the first element with a margin below it.</p>
+    </div>
+
+    <div class="element2">
+        <p>This is the second element.</p>
+    </div>
+
+</body>
+</html>
