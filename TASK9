@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with Checkboxes</title>
+</head>
+<body>
+
+    <form action="/submit-form" method="post">
+        <label for="hobbies">Select your hobbies:</label><br>
+        <input type="checkbox" id="reading" name="hobbies" value="reading">
+        <label for="reading">Reading</label><br>
+        
+        <input type="checkbox" id="traveling" name="hobbies" value="traveling">
+        <label for="traveling">Traveling</label><br>
+        
+        <input type="checkbox" id="cooking" name="hobbies" value="cooking">
+        <label for="cooking">Cooking</label><br><br>
+        
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
