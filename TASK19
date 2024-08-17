@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Non-Breaking Space Example</title>
+</head>
+<body>
+
+    <p>This paragraph contains a non-breaking space between the words "web" and "development": web&nbsp;development.</p>
+
+</body>
+</html>
