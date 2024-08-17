@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Color Example</title>
+    <style>
+        /* Setting the background color for the entire webpage */
+        body {
+            background-color: lightgoldenrodyellow;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to My Webpage</h1>
+    <p>The background color of the entire webpage is light goldenrod yellow.</p>
+
+</body>
+</html>
