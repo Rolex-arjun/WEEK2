@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Size Example</title>
+    <style>
+        /* Setting the background size of an image to cover the entire div */
+        .cover {
+            width: 100%;
+            height: 300px;
+            background-image: url('images/cover.jpg');
+            background-size: cover; /* Cover the entire div */
+            background-position: center;
+        }
+
+        /* Setting the background size of an image to contain the entire div */
+        .contain {
+            width: 100%;
+            height: 300px;
+            background-image: url('images/contain.jpg');
+            background-size: contain; /* Ensure the image is contained within the div */
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="cover">
+        <h1>Background Image Cover</h1>
+    </div>
+
+    <div class="contain">
+        <h1>Background Image Contain</h1>
+    </div>
+
+</body>
+</html>
