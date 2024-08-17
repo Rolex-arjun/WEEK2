@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hexadecimal Text Color</title>
+    <style>
+        /* Setting the text color of the paragraph using a hexadecimal color value (#ff5733) */
+        p {
+            color: #ff5733;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Color Example</h1>
+    <p>This paragraph has a text color of #ff5733 (a shade of orange-red).</p>
+
+</body>
+</html>
