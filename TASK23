@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Section Commenting Example</title>
+</head>
+<body>
+
+    <!-- Start of the header section -->
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <!-- End of the header section -->
+
+    <!-- Start of the main content section -->
+    <main>
+        <p>This is the main content area of the website.</p>
+    </main>
+    <!-- End of the main content section -->
+
+    <!-- Start of the footer section -->
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+    <!-- End of the footer section -->
+
+</body>
+</html>
