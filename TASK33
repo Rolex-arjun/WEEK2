@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Background</title>
+    <style>
+        /* Creating a linear gradient background using RGB color values */
+        body {
+            background: linear-gradient(to right, rgb(255, 0, 0), rgb(0, 0, 255));
+            /* Red to Blue gradient */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Gradient Background Example</h1>
+    <p>The background of this webpage is a gradient from red to blue.</p>
+
+</body>
+</html>
