@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSL Color Example</title>
+    <style>
+        /* Styling the heading using an HSL color value with adjusted saturation */
+        h1 {
+            color: hsl(120, 100%, 40%); /* Green with full saturation */
+        }
+
+        h2 {
+            color: hsl(120, 50%, 40%); /* Green with 50% saturation */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Fully Saturated Green Heading</h1>
+    <h2>Partially Saturated Green Heading</h2>
+    <p>These headings use HSL color values with different saturation levels.</p>
+
+</body>
+</html>
