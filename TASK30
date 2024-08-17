@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linking to Another Webpage</title>
+</head>
+<body>
+
+    <h1>Main Page</h1>
+    <p>Visit our services page for more information.</p>
+
+    <!-- Relative path to link to a webpage in a different directory -->
+    <a href="../services/services.html">Go to Services Page</a>
+
+</body>
+</html>
