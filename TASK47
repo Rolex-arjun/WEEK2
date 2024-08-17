@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box-Sizing Example</title>
+    <style>
+        /* Changing box-sizing to include padding and border */
+        .box-sizing {
+            box-sizing: border-box;
+            width: 200px;
+            height: 100px;
+            padding: 20px;
+            border: 5px solid darkblue;
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box-sizing">
+        <p>This box includes padding and border in its total width and height.</p>
+    </div>
+
+</body>
+</html>
