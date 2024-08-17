@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with File Input</title>
+    <style>
+        .file-input {
+            padding: 10px;
+            border: 2px solid #ccc;
+            display: inline-block;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <form action="/submit-form" method="post" enctype="multipart/form-data">
+        <label for="file-upload" class="file-input">Choose a file</label>
+        <input type="file" id="file-upload" name="file-upload" style="display: none;">
+        <br><br>
+        
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        document.querySelector('.file-input').addEventListener('click', function() {
+            document.querySelector('#file-upload').click();
+        });
+    </script>
+
+</body>
+</html>
