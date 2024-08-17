@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Layout</title>
+</head>
+<body>
+
+    <article>
+        <header>
+            <h1>Blog Post Title</h1>
+            <p>Posted on August 17, 2024 by Author Name</p>
+        </header>
+
+        <section>
+            <h2>Introduction</h2>
+            <p>This is the introduction to the blog post.</p>
+        </section>
+
+        <section>
+            <h2>Main Content</h2>
+            <p>This is the main content of the blog post.</p>
+        </section>
+
+        <footer>
+            <p>Posted in <a href="#">Category</a> | <a href="#">Leave a comment</a></p>
+        </footer>
+    </article>
+
+</body>
+</html>
