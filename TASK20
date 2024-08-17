@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Symbols</title>
+</head>
+<body>
+
+    <p>US Dollar: &dollar;</p>
+    <p>Euro: &euro;</p>
+    <p>British Pound: &pound;</p>
+    <p>Japanese Yen: &yen;</p>
+    <p>Indian Rupee: &#8377;</p>
+
+</body>
+</html>
