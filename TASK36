@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Font Family</title>
+    <style>
+        /* Changing the font family of all paragraphs to Arial */
+        p {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Font Family Example</h1>
+    <p>This paragraph is using the Arial font family.</p>
+    <p>All paragraphs on this webpage will have the Arial font.</p>
+
+</body>
+</html>
