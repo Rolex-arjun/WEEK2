@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linking to a Specific Section</title>
+</head>
+<body>
+
+    <h1>Main Page</h1>
+    <p>Click the link below to go to the "Contact Us" section of another page.</p>
+
+    <!-- Absolute path to link to a specific section in another HTML file -->
+    <a href="/about/contact.html#contact-section">Go to Contact Us Section</a>
+
+</body>
+</html>
