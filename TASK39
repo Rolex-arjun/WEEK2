@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Align Text</title>
+    <style>
+        /* Aligning text to the center within a div */
+        .center-text {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center-text">
+        <h1>Centered Heading</h1>
+        <p>This text is centered inside the div.</p>
+    </div>
+
+</body>
+</html>
