@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathematical Symbols</title>
+</head>
+<body>
+
+    <p>The summation symbol: &sum;</p>
+    <p>The integral symbol: &int;</p>
+    <p>The multiplication symbol: &times;</p>
+    <p>The division symbol: &divide;</p>
+    <p>The square root symbol: &radic;</p>
+
+</body>
+</html>
