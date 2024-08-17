@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Size with Relative Units</title>
+    <style>
+        /* Setting font sizes using em and rem units */
+        h1 {
+            font-size: 2rem; /* 2 times the root font size */
+        }
+
+        h2 {
+            font-size: 1.5rem; /* 1.5 times the root font size */
+        }
+
+        p {
+            font-size: 1em; /* 1 time the current font size */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Main Heading</h1>
+    <h2>Subheading</h2>
+    <p>This paragraph is using a font size of 1em.</p>
+
+</body>
+</html>
